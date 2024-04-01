@@ -1,8 +1,23 @@
 body{
-    background-color: red;
+    background-color: white;
     text-align: center;
-    color: white;
+    color: black;
 }
 a{
+    color: #6C63FF;
+}
+.contact-link{
+    background-color: #6C63FF;
     color: white;
+    border: 1px solid;
+    border-radius: 5px;
+    margin: 0 30px;
+padding: 20px 20px;
+}
+.about-link{
+    border: 1px solid #6C63FF;
+    color: #6C63FF;
+    border-radius: 5px;
+    margin: 0 30px;
+padding: 20px 20px;
 }
